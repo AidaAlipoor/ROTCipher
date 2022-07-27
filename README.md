@@ -1,11 +1,11 @@
 # ROTCipher
 It's a simple character substitution based on a shift of N letters in an alphabet app created with .NET Framework
-Examples :
 
+Examples:
 Text : michael
 ROT : 5
 Cipher: rnhmfgq
 
 Text : name
-Shift: 10
+ROT: 10
 Cipher: sfrg
