@@ -8,8 +8,9 @@ Text : michael
 ROT : 5
 
 Cipher: rnhmfgq
+____________________________
 
-Text : name
+text : name
 
 ROT: 10
 
